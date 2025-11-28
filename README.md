@@ -1,7 +1,7 @@
 
 # App web de seguimiento de pacientes Veterinaria
 
-Proyecto de app web que permite realizar seguimiento de pacientes, poder crear nuevos pacientes, editar información de los pacientes y eliminar algún paciente.
+Proyecto de app web que permite realizar seguimiento de pacientes, poder crear nuevas citas para los pacientes, editar información de la cita de un paciente y eliminar una cita de un paciente.
 
 
 ## Pila de tecnología
